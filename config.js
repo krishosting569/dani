@@ -41,30 +41,30 @@ global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '081251549899' //Dana
-global.povo = '081352848936' //Ovo
-global.pgopay = '081352848936' //Gopay
-global.ppulsa = '081251549899' //Pulsa 
-global.ppulsa2 = '081352848936' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 081352848936\n│┝‷✧ *Dana:* 081251549899\n│┝‷✧ *Gopay:* 081352848936\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.pdana = '082180625481' //Dana
+global.povo = '082180625481' //Ovo
+global.pgopay = '082180625481' //Gopay
+global.ppulsa = '082180625481' //Pulsa 
+global.ppulsa2 = '082180625481' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = 'https://sociabuzz.com/zakiiysm/tribe' //Saweria
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 082180625481\n│┝‷✧ *Dana:* 082180625481\n│┝‷✧ *Gopay:* 082180625481\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6281352848936' //Nomor Bot mu
-global.nomorown = '6281251549899' //Nomormu
-global.namebot = 'Dani BOT' //Nama bot mu
-global.nameown = 'DaniXd' //Nama mu
+global.nomorbot = '6382180625481' //Nomor Bot mu
+global.nomorown = '6382180625481' //Nomormu
+global.namebot = 'BOT Z4K' //Nama bot mu
+global.nameown = 'Z4K STORE' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
-global.swo = 'https://wa.me/6281251549899' //Nomor mu
-global.linksc = 'https://bit.ly/3PqdYYS' //Gausah di ganti, biar ga eror
+global.swo = 'https://wa.me/6382180625481' //Nomor mu
+global.linksc = 'https://bit.ly/3ptuujhs' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
 global.after = 'Bot by https://bit.ly/3QJOy9F'
 global.author = '                © Dani BOT By DaniXd' //Wm author
 global.acguest = 'Kamu akan Menggunakan akun guest dari DaniXD\n\nClick Button di bawah.'
-global.botintro = 'Hallo, Kenalin saya Dani BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *DaniXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.botintro = 'Hallo, Kenalin saya BOT Z4K Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *DaniXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sc = 'https://telegra.ph/file/ff583768b40239651d69d.jpg'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
@@ -89,10 +89,10 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281251549899'], //Owner1
-  ['6281348106274'], //Owner2
-  ['6281352848936'], //Owner3
-  ['6281251549899', 'DANI ! 🥶', true] //Ini buat kamu!
+  ['6382180625481'], //Owner1
+  ['6382180625481'], //Owner2
+  ['6382180625481'], //Owner3
+  ['6382180625481', 'Z4K ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -145,13 +145,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 DANI - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Dani - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 DANI - BOT'
+global.wm = '                「 赤 Z4K - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Z4K - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤BOT- Z4K'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: DaniXD' //Ganti serah lu
+global.titlebot = '𝗬𝗧: Z4K' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
